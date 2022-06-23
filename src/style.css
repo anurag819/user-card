@@ -1,0 +1,25 @@
+.head{
+  text-align: center;
+  background-color: rgb(69, 125, 84);
+  border-radius: 0px 20px;
+}
+
+button{
+  background-color: chocolate;
+  border: none;
+  border-radius: 3px;
+  font-size: large;
+}
+
+.data h2{
+  color: rgb(84, 72, 50);
+  text-align: center;
+  font-size: 30px;
+}
+
+.data li{
+  color: rgb(35, 55, 3);
+  margin: 10px 10px;
+  background-color: rgb(69, 125, 84);
+  display: block;
+}
